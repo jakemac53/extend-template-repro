@@ -2,7 +2,3 @@ name: extend_template_repro
 dependencies:
   browser: any
   web_components: any
-transformers:
-- web_components:
-    entry_points:
-      - web/index.html
